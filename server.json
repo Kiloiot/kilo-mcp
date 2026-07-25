@@ -1,0 +1,35 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.kiloiot/kilo",
+  "title": "Kilo IoT Server",
+  "description": "Read, provision and control real IoT devices, rules and alarms on a live Kilo deployment.",
+  "version": "1.0.0",
+  "websiteUrl": "https://kiloiot.io",
+  "repository": {
+    "url": "https://github.com/Kiloiot/kilo-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://kiloiot.io/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp-auth.kiloiot.io/mcp"
+    },
+    {
+      "type": "streamable-http",
+      "url": "https://mcp-auth.kiloiot.io/o/{organizationId}/mcp",
+      "variables": {
+        "organizationId": {
+          "description": "Pin the connection to one organization instead of following the one selected in the Kilo web app. Find the ID in the web app; you must be a member of it.",
+          "isRequired": true
+        }
+      }
+    }
+  ]
+}
