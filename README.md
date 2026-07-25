@@ -1,5 +1,7 @@
 # Kilo IoT Platform MCP Server
 
+[![smithery badge](https://smithery.ai/badge/kiloiot/kilo-iot-platform)](https://smithery.ai/servers/kiloiot/kilo-iot-platform)
+
 Connect an AI client to a live IoT deployment and let it work the real thing: read devices, provision
 hardware, deploy automation rules, work the alarm queue, and send commands to physical equipment.
 
