@@ -7,13 +7,16 @@
   "websiteUrl": "https://kiloiot.io",
   "repository": {
     "url": "https://github.com/Kiloiot/kilo-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1312160296"
   },
   "icons": [
     {
       "src": "https://kiloiot.io/icon-512.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [
