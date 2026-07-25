@@ -1,4 +1,4 @@
-# Kilo IoT MCP Server
+# Kilo IoT Platform MCP Server
 
 Connect an AI client to a live IoT deployment and let it work the real thing: read devices, provision
 hardware, deploy automation rules, work the alarm queue, and send commands to physical equipment.
@@ -92,9 +92,9 @@ are writing code, use REST. If you are working with an assistant, use MCP.
 
 ## Links
 
-- Platform: [kiloiot.io](https://kiloiot.io) · [Kilo IoT Server](https://kiloiot.io/iot-server/)
+- Platform: [kiloiot.io](https://kiloiot.io) · [Kilo IoT Platform](https://kiloiot.io/iot-server/)
 - Documentation: [docs.kiloiot.io — MCP Server](https://docs.kiloiot.io/kilo-iot-server/api/mcp-server)
 - Support: [kiloiot.io/contact](https://kiloiot.io/contact/)
 - Privacy policy: [kiloiot.io/privacy-policy](https://kiloiot.io/privacy-policy/) · Terms: [kiloiot.io/terms-of-service](https://kiloiot.io/terms-of-service/)
 
-Kilo IoT Server is built by Kilo IoT GmbH. Start free at [kiloiot.io](https://kiloiot.io).
+Start free at [kiloiot.io](https://kiloiot.io).
