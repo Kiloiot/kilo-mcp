@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.kiloiot/kilo",
-  "title": "Kilo IoT Server",
-  "description": "Read, provision and control real IoT devices, rules and alarms on a live Kilo deployment.",
-  "version": "1.0.0",
+  "title": "Kilo IoT Platform",
+  "description": "The IoT platform where AI controls real-world devices: read, provision, automate and command.",
+  "version": "1.0.1",
   "websiteUrl": "https://kiloiot.io",
   "repository": {
     "url": "https://github.com/Kiloiot/kilo-mcp",
