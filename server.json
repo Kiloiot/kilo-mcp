@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.kiloiot/kilo",
   "title": "Kilo IoT Platform",
-  "description": "The IoT platform where AI controls real-world devices: read, provision, automate and command.",
-  "version": "1.0.1",
+  "description": "Operate a live IoT deployment from your own AI client: read telemetry and device state, provision devices, build rules and alarms, and run a device's already-configured commands on real hardware. Browser sign-in; the connection carries exactly your permissions and organization scope.",
+  "version": "1.0.2",
   "websiteUrl": "https://kiloiot.io",
   "repository": {
     "url": "https://github.com/Kiloiot/kilo-mcp",
